@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/**
+/** 
  *Tells the user what to say based on the number they put in
  * @Chad 
  */
